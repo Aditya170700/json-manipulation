@@ -1,0 +1,14 @@
+{
+  "name": "json-manipulation",
+  "version": "1.0.0",
+  "description": "Json manipulation test refactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "adityaric72@gmail.com",
+  "license": "ISC"
+}
